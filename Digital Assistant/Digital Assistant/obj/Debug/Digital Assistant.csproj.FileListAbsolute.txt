@@ -1,0 +1,11 @@
+F:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\Digital Assistant\Digital Assistant\bin\Debug\Digital Assistant.exe.config
+F:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\Digital Assistant\Digital Assistant\bin\Debug\Digital Assistant.exe
+F:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\Digital Assistant\Digital Assistant\bin\Debug\Digital Assistant.pdb
+F:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\Digital Assistant\Digital Assistant\obj\Debug\Digital Assistant.csproj.AssemblyReference.cache
+F:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\Digital Assistant\Digital Assistant\obj\Debug\Digital Assistant.csproj.SuggestedBindingRedirects.cache
+F:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\Digital Assistant\Digital Assistant\obj\Debug\Digital_Assistant.Form1.resources
+F:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\Digital Assistant\Digital Assistant\obj\Debug\Digital_Assistant.Properties.Resources.resources
+F:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\Digital Assistant\Digital Assistant\obj\Debug\Digital Assistant.csproj.GenerateResource.cache
+F:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\Digital Assistant\Digital Assistant\obj\Debug\Digital Assistant.csproj.CoreCompileInputs.cache
+F:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\Digital Assistant\Digital Assistant\obj\Debug\Digital Assistant.exe
+F:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\Digital Assistant\Digital Assistant\obj\Debug\Digital Assistant.pdb
