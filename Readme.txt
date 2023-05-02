@@ -1,9 +1,13 @@
-------------Commands--------------
+# Tools Used
 
-Hello
-Hey Zain What time is it now
-Hey Zain Open Google
-Hey Zain Open Gmail
-Hey Zain Shut Down
+   To devlop this project, the following tools were used.
+-> Microsoft Visual Studio 2019 Community Edition.
 
------------------------------------
+	
+# Commands
+
+   Hello
+   Hey Zain What time is it now
+   Hey Zain Open Google
+   Hey Zain Open Gmail
+   Hey Zain Shut Down
