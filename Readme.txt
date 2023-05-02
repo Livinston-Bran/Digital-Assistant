@@ -1,5 +1,3 @@
-# Digital-Assistant
-
 ------------Commands--------------
 
 Hello
@@ -8,4 +6,4 @@ Hey Zain Open Google
 Hey Zain Open Gmail
 Hey Zain Shut Down
 
-----------------------------------
+-----------------------------------
